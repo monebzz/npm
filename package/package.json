@@ -1,0 +1,22 @@
+{
+  "name": "npm-work",
+  "version": "1.0.0",
+  "description": "npm assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monebzz/npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "m muneeb azhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monebzz/npm/issues"
+  },
+  "homepage": "https://github.com/monebzz/npm#readme"
+}
